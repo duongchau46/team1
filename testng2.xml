@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+       <class name="tests.Home">
+        <methods> 
+           	<include name="TC_H1_verify_page_title" />      
+       	
+         </methods>
+        </class>           			
+      <class name="tests.ContactUs">
+      	    <methods> 
+ 		     <exclude name="TC_C2_verify_" />
+ 		    </methods> 
+ 		</class>          
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

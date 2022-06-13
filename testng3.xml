@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <tests>
+  <test name="Home_Module">
+    <classes>
+      <class name="tests.Home"/>     
+    </classes>
+  </test> <!-- Test -->
+   <test name="ContactUs_Model">
+    <classes>     
+       <class name="tests.ContactUs"/>
+    </classes>
+  </test> <!-- Test -->
+    </tests>
+</suite> <!-- Suite -->
+
+

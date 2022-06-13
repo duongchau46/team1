@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="127137" started-at="2022-05-10T18:33:58 ICT" finished-at="2022-05-10T18:36:06 ICT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="127137" started-at="2022-05-10T18:33:58 ICT" finished-at="2022-05-10T18:36:06 ICT">
+      <class name="tests.JTest">
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:tests.JTest@305fd85d]" name="beforMethod" is-config="true" duration-ms="4102" started-at="2022-05-10T18:33:59 ICT" finished-at="2022-05-10T18:34:03 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="CheckBox()[pri:0, instance:tests.JTest@305fd85d]" name="CheckBox" duration-ms="12990" started-at="2022-05-10T18:34:03 ICT" finished-at="2022-05-10T18:34:16 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBox -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.JTest@305fd85d]" name="afterMethod" is-config="true" duration-ms="2669" started-at="2022-05-10T18:34:16 ICT" finished-at="2022-05-10T18:34:18 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckBox status=SUCCESS method=JTest.CheckBox()[pri:0, instance:tests.JTest@305fd85d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:tests.JTest@305fd85d]" name="beforMethod" is-config="true" duration-ms="1487" started-at="2022-05-10T18:34:18 ICT" finished-at="2022-05-10T18:34:20 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="CheckBox1()[pri:0, instance:tests.JTest@305fd85d]" name="CheckBox1" duration-ms="17190" started-at="2022-05-10T18:34:20 ICT" finished-at="2022-05-10T18:34:37 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBox1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.JTest@305fd85d]" name="afterMethod" is-config="true" duration-ms="2645" started-at="2022-05-10T18:34:37 ICT" finished-at="2022-05-10T18:34:40 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckBox1 status=SUCCESS method=JTest.CheckBox1()[pri:0, instance:tests.JTest@305fd85d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:tests.JTest@305fd85d]" name="beforMethod" is-config="true" duration-ms="1719" started-at="2022-05-10T18:34:40 ICT" finished-at="2022-05-10T18:34:41 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="CheckBox2()[pri:0, instance:tests.JTest@305fd85d]" name="CheckBox2" duration-ms="11244" started-at="2022-05-10T18:34:41 ICT" finished-at="2022-05-10T18:34:53 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBox2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.JTest@305fd85d]" name="afterMethod" is-config="true" duration-ms="2646" started-at="2022-05-10T18:34:53 ICT" finished-at="2022-05-10T18:34:55 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckBox2 status=SUCCESS method=JTest.CheckBox2()[pri:0, instance:tests.JTest@305fd85d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:tests.JTest@305fd85d]" name="beforMethod" is-config="true" duration-ms="2306" started-at="2022-05-10T18:34:55 ICT" finished-at="2022-05-10T18:34:58 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="Radio_button_demo()[pri:0, instance:tests.JTest@305fd85d]" name="Radio_button_demo" duration-ms="11083" started-at="2022-05-10T18:34:58 ICT" finished-at="2022-05-10T18:35:09 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Radio_button_demo -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.JTest@305fd85d]" name="afterMethod" is-config="true" duration-ms="2678" started-at="2022-05-10T18:35:09 ICT" finished-at="2022-05-10T18:35:11 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Radio_button_demo status=SUCCESS method=JTest.Radio_button_demo()[pri:0, instance:tests.JTest@305fd85d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:tests.JTest@305fd85d]" name="beforMethod" is-config="true" duration-ms="1661" started-at="2022-05-10T18:35:11 ICT" finished-at="2022-05-10T18:35:13 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="jenkins_Testcase()[pri:0, instance:tests.JTest@305fd85d]" name="jenkins_Testcase" duration-ms="8505" started-at="2022-05-10T18:35:13 ICT" finished-at="2022-05-10T18:35:21 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkins_Testcase -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.JTest@305fd85d]" name="afterMethod" is-config="true" duration-ms="634" started-at="2022-05-10T18:35:21 ICT" finished-at="2022-05-10T18:35:22 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jenkins_Testcase status=SUCCESS method=JTest.jenkins_Testcase()[pri:0, instance:tests.JTest@305fd85d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:tests.JTest@305fd85d]" name="beforMethod" is-config="true" duration-ms="1440" started-at="2022-05-10T18:35:22 ICT" finished-at="2022-05-10T18:35:24 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="jenkins_Testcase_failed_demo()[pri:0, instance:tests.JTest@305fd85d]" name="jenkins_Testcase_failed_demo" duration-ms="9464" started-at="2022-05-10T18:35:24 ICT" finished-at="2022-05-10T18:35:33 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkins_Testcase_failed_demo -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.JTest@305fd85d]" name="afterMethod" is-config="true" duration-ms="669" started-at="2022-05-10T18:35:33 ICT" finished-at="2022-05-10T18:35:34 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jenkins_Testcase_failed_demo status=SUCCESS method=JTest.jenkins_Testcase_failed_demo()[pri:0, instance:tests.JTest@305fd85d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:tests.JTest@305fd85d]" name="beforMethod" is-config="true" duration-ms="1621" started-at="2022-05-10T18:35:34 ICT" finished-at="2022-05-10T18:35:35 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="test_Box()[pri:0, instance:tests.JTest@305fd85d]" name="test_Box" duration-ms="13197" started-at="2022-05-10T18:35:35 ICT" finished-at="2022-05-10T18:35:49 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Box -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.JTest@305fd85d]" name="afterMethod" is-config="true" duration-ms="2668" started-at="2022-05-10T18:35:49 ICT" finished-at="2022-05-10T18:35:51 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_Box status=SUCCESS method=JTest.test_Box()[pri:0, instance:tests.JTest@305fd85d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:tests.JTest@305fd85d]" name="beforMethod" is-config="true" duration-ms="1507" started-at="2022-05-10T18:35:51 ICT" finished-at="2022-05-10T18:35:53 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="test_downupKeys()[pri:0, instance:tests.JTest@305fd85d]" name="test_downupKeys" duration-ms="10258" started-at="2022-05-10T18:35:53 ICT" finished-at="2022-05-10T18:36:03 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_downupKeys -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.JTest@305fd85d]" name="afterMethod" is-config="true" duration-ms="2684" started-at="2022-05-10T18:36:03 ICT" finished-at="2022-05-10T18:36:06 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_downupKeys status=SUCCESS method=JTest.test_downupKeys()[pri:0, instance:tests.JTest@305fd85d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.JTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
